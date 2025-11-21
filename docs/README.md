@@ -1,5 +1,5 @@
 # Iris Classification
-<img src="./irir_flowers.png" alt="Iris">
+![alt text](irir_flowers.png "Iris")
 
   The project demonstrates a complete end-to-end pipeline for training and evaluating a feedforward neural network on the classic Iris dataset, a multiclass classification problem containing 150 samples across three species of iris flowers (Setosa, Versicolor, and Virginica).
 
